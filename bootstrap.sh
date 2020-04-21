@@ -10,6 +10,7 @@ function doIt() {
 		--exclude "brew.sh" \
 		--exclude "README.md" \
 		--exclude "LICENSE-MIT.txt" \
+		--exclude "term.png" \
 		-avh --no-perms . ~;
 	source ~/.bash_profile;
 }
