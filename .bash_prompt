@@ -70,7 +70,7 @@ else
 fi;
 
 # Set prompt
-PS1="\[${bold}\]\n";
+PS1="\[${bold}\]";
 # username
 PS1+="\[${userStyle}\]\u";
 PS1+="\[${green}\]@";
