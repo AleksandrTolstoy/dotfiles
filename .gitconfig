@@ -3,10 +3,6 @@
 	email = ${GIT_AUTHOR_EMAIL}
 	name = ${GIT_AUTHOR_NAME}
 
-[core]
-
-	editor = ${EDITOR} -w
-
 [color]
 
 	# Use colors in Git commands that are capable of colored output when
