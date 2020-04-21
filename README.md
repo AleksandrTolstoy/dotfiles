@@ -1,6 +1,7 @@
 # dotfiles
 
 My system configuration settings
+![terminal](https://priscree.ru/img/a0e9ca7086792b.png)
 
 ## Installation
 
