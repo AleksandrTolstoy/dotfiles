@@ -1,0 +1,14 @@
+A File Icon
+All Autocomplete
+Anaconda
+AutoPEP8
+ayu
+BracketHighlighter
+Color Highlighter
+Git
+GitGutter
+Material Theme
+Package Control
+SideBarEnhancements
+SublimeCodeIntel
+SublimeREPL
