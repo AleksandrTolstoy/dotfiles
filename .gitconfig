@@ -1,0 +1,15 @@
+[user]
+	
+	email = ${GIT_AUTHOR_EMAIL}
+	name = ${GIT_AUTHOR_NAME}
+
+[color]
+
+	# Use colors in Git commands that are capable of colored output when
+	# outputting to the terminal. (This is the default setting in Git ≥ 1.8.4.)
+	ui = auto
+
+[help]
+
+	# Automatically correct and execute mistyped commands
+	autocorrect = 1

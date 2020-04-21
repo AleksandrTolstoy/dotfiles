@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Add `~/bin` to the `$PATH`
+export PATH="$HOME/bin:$PATH";
+
+# Setting PATH for Python 3.8
+# The original version is saved in .bash_profile.pysave
+export PATH="/Library/Frameworks/Python.framework/Versions/3.8/bin:${PATH}"
