@@ -1,6 +1,6 @@
 # dotfiles
 
-My configuration settings
+My system configuration settings
 
 ## Installation
 
