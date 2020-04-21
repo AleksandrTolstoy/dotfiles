@@ -65,7 +65,7 @@ Some of the functionality of these dotfiles depends on formulae installed by `br
 
 ## Author
 
-[Mathias Bynens](https://github.com/mathiasbynens)
-Current repository was rewritten by me
-[Aleksandr Tolstoy](https://github.com/AleksandrTolstoy)
+Main: [Mathias Bynens](https://github.com/mathiasbynens)  
+
+Current repository was rewritten by me: [Aleksandr Tolstoy](https://github.com/AleksandrTolstoy)  
 
