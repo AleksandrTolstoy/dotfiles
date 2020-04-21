@@ -65,4 +65,4 @@ alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resource
 alias reload="exec ${SHELL} -l"
 
 alias python="python3"
-alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias subl="${EDITOR}"
