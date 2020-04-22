@@ -66,3 +66,4 @@ alias reload="exec ${SHELL} -l"
 
 alias python="python3"
 alias subl=${VISUAL}
+alias venv="python3 -m venv venv && source venv/bin/activate"
