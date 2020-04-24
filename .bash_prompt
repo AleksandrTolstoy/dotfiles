@@ -42,7 +42,7 @@ prompt_git() {
 
 	[ -n "${s}" ] && s=" [${s}]";
 
-	echo -e "${1}${branchName}${2}${s}";
+	echo -e "${1}${branchName}${2}${3}${s}";
 }
 
 tput sgr0; # reset colors
@@ -79,7 +79,8 @@ PS1+="\[${hostStyle}\]\h: ";
 # current working directory 
 PS1+="\[${blue}\]\W";
 # Git repository details
-PS1+="\$(prompt_git \"\[${white}\] on \[${purple}\]\" \"\[${yellow}\]\")"; 
+PS1+="\$(prompt_git \"\[${purple}\] git:(\[${red}\]\" \"\[${purple}\])\" \"\[${yellow}\]\")"; 
+
 PS1+="\n";
 # `$` (and reset color)
 PS1+="\[${white}\]\$ \[${reset}\]";
